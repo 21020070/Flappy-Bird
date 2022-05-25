@@ -4,7 +4,11 @@
 - dùng phím up để điều khiên chim qua các cột nước
 - độ rộng giữa 2 cột là ngẫu nhiên vừa đủ để qua
 
-3,các chức năng đã cài đặt: menu, đồ họa, gameplay, tính điểm.
+3,các chức năng đã cài đặt: 
+- thiết lập menu.
+- tạo gameplay.
+- tính điểm.
+- đồ họa
 
 
 4,các kĩ thuật lập trình : 
