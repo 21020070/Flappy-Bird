@@ -10,6 +10,7 @@
 4,các kĩ thuật lập trình : 
 - sử dụng hàm , con trỏ , lớp , cấu trúc.
 - dùng thư viện SDL2, SDL_image,SDL_mixer
+
 5,hướng phát triển : - cải thiện Menu bằng cách thêm ảnh sinh động.
                    - cải thiện hình ảnh cho đỡ cứng .
                    
