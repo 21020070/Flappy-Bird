@@ -3,6 +3,7 @@
 2,Mô tả chung về trò chơi: 
 - dùng phím up để điều khiên chim qua các cột nước
 - độ rộng giữa 2 cột là ngẫu nhiên vừa đủ để qua
+
 3,các chức năng đã cài đặt: menu, đồ họa, gameplay, tính điểm.
 
 
