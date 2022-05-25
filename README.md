@@ -15,5 +15,7 @@
 - sử dụng hàm , con trỏ , lớp , cấu trúc.
 - dùng thư viện SDL, SDL_image,SDL_mixer
 
-5,hướng phát triển : - cải thiện Menu bằng cách thêm ảnh sinh động.
-                   - cải thiện hình ảnh cho đỡ cứng .
+5,hướng phát triển : 
+- cải thiện Menu bằng cách thêm ảnh sinh động.
+- cải thiện đồ họa cho đỡ cứng
+- thêm tính năng số mạng
