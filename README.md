@@ -1,8 +1,12 @@
+1, tải file về rồi dùng vs code để chạy file .sln
 
-
-Mô tả chung về trò chơi: điều kiển chim qua các ống nước
-các chức năng đã cài đặt: menu, đồ họa, gameplay, tính điểm.
-các kĩ thuật lập trình : con trỏ, lớp , cấu trúc , đồ họa.
+2,Mô tả chung về trò chơi: 
+-điều kiển chim qua các ống nước.
+- độ rộng giữa 2 cột là ngẫu nhiên vừa đủ để qua
+3,các chức năng đã cài đặt: menu, đồ họa, gameplay, tính điểm.
+4,các kĩ thuật lập trình : 
+- sử dụng hàm , con trỏ , lớp , cấu trúc.
+- dùng thư viện SDL2, SDL_image,SDL_mixer
 hướng phát triển : - cải thiện Menu. 
                    - cải thiện hình ảnh.
 Tâm đắc : -phần gameplay
