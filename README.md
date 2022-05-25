@@ -9,4 +9,5 @@
 - dùng thư viện SDL2, SDL_image,SDL_mixer
 hướng phát triển : - cải thiện Menu. 
                    - cải thiện hình ảnh.
-Tâm đắc : -phần gameplay
+                   
+5,Tâm đắc : -phần gameplay
